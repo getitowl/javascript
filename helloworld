@@ -6,7 +6,7 @@ function helloWorld(str)
   console.log(str2);
 }
 
-//or
+//or arrow
 
 hello = (str2) => {console.log(str2)};
 
