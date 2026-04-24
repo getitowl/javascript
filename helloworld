@@ -5,3 +5,9 @@ function helloWorld(str)
   let str2 = "Hello World!";
   console.log(str2);
 }
+
+//or arrow function
+
+hello = (str2) => {console.log(str2)};
+
+//to run use hello("some_text_here")
