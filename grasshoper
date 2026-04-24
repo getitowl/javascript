@@ -2,4 +2,4 @@
 //and returns the player's new health.
 //Health can't be less than 0.
 
-let combat = (h, d) => {return h-d<0 ? 0 : h-d;}
+let combat = (h, d) => {return h-d<0 ? 0 : h-d;};
