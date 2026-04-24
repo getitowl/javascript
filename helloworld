@@ -1,0 +1,7 @@
+// create your first JS function and print "Hello World!"
+
+function helloWorld(str)
+{
+  let str2 = "Hello World!";
+  console.log(str2);
+}
